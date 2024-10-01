@@ -4,7 +4,7 @@
 # Lab 03 
 # Lab Section: 
 # Sources, people worked with, help given to: 
-# your
+# your #figured it out with the TA examples givin in class 
 # comments
 # here
 
